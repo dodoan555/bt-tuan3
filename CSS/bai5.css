@@ -1,0 +1,8 @@
+.ex{
+    width: 90%;
+    height: 90vh;
+    background-image: url(../IMAGES/Palantir.jpg), url(../IMAGES/tripadvisor.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 200px, 200px;
+}
